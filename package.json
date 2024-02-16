@@ -1,11 +1,11 @@
 {
 "scripts": {
-"start": "pm2 start index.js --deep-monitoring --attach --name prabath-md",
+"start": "pm2 start start.js --deep-monitoring --attach --name prabath-md",
 "stop": "pm2 stop prabath-md",
 "restart": "pm2 restart prabath-md"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys.git",
+"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys.git#master",
 "@adiwajshing/keyed-db": "^0.2.4",
 "wa_set_pkg": "1.0.1",
 "heroku-client": "^3.1.0",
@@ -57,6 +57,7 @@
 "xvideos-scraper": "1.0.4",
 "@blackamda/song_video_dl": "1.1.0",
 "ytdl-mp3": "3.4.0",
+"lodash": "^4.17.21",
 "google-it": "^1.6.4",
 "tiktokdl":"0.0.4",
 "heroku-client":"^3.1.0",
@@ -71,7 +72,7 @@
 "@sl-code-lords/si-subdl":"1.1.1",
 "@xct007/frieren-scraper":"github:xct007/frieren-scraper",
 "ytdl-secktor":"latest",
-"@sl-code-lords/movie-dl":"1.0.4",
+"@sl-code-lords/movie-dl":"1.0.8",
 "fb-info-video":"1.0.2",
 "bard-ai":"2.0.3",
 "scr-emoji":"0.0.3",
@@ -86,7 +87,10 @@
 "btch-downloader":"2.3.1-alpha",
 "buffer-url":"1.0.0",
 "@sasmeee/wabetainfo":"1.1.1",
-"nima-wabeta-info":"1.0.4",
-"@vitalets/google-translate-api":"9.2.0"
+"nima-wabeta-info":"1.0.5",
+"@vitalets/google-translate-api":"9.2.0",
+"pastebin-js": "latest",
+"is-standard-emoji":"1.0.0",
+"@tobyg74/tiktok-api-dl":"1.0.13"
 }
 }

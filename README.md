@@ -4,7 +4,7 @@
 
 <br>
 
-🔮 `The main hope of creating this bot is to take full advantage of the WhatsApp and make its work easier.`
+🔮 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
 
 <br>
  
@@ -49,11 +49,10 @@
 <br>
 <br>
 
-<a href="https://replit.com/@Amilaprabath/PRABATH-MD-PAIR-CODE#README.md"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://prabath-md-pair-web-newly.koyeb.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 
 <a href="https://prabath-md-qr-web.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
-
 <br>
 
 <br>
@@ -61,7 +60,7 @@
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/prabathLK/PRABATH-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=prabath-md)
 <br>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/2B1VYo)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/5_3enq)
 <br>
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH-MD&template=https://github.com/PrabathLK/PRABATH-MD.git)
@@ -72,8 +71,9 @@
 [![FORK PRABATH-MD](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white)](https://github.com/prabathLK/PRABATH-MD/fork)
 
  ---
-<a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+
+<a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 # PRABATH-MD Bot Commands
 
@@ -228,6 +228,9 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 - **Antilink:** Antilink | ✔️
 - **Antibot:** Antibot | ✔️
 - **Autoreact:** Autoreact | ✔️
+- **custom-voice:** custom-voice | ✔️
+- **custom-sticker:** custom-sticker | ✔️
+- **custom-replys:** custom-replys | ✔️
 
 ✨ Feel free to explore and use these commands!
 
@@ -264,4 +267,4 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
 `Release date:- 2023.08.24`
 <br>
-`latest updated date:- 2024.01.12`
+`latest updated date:- 2024.02.16`
