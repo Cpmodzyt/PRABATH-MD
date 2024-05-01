@@ -1,2 +1,2 @@
-web: node config-env.js
-worker: node config-env.js
+web: node connect.js
+worker: node connect.js
